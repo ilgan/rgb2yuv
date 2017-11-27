@@ -48,7 +48,7 @@ I had a lot of problems with including png package into the project. I literally
 
 ### Tests:
 
--   The app installed just fine using: devtools::install\_github("ilgan/rgb2yuv")
+-   The app installed just fine using: devtools::install\_github("ilgan/my\_powers")
 -   Tests script just to make your life easy is below:
 
 ``` r

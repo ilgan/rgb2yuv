@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3657926879",
+    "hash" : "0",
     "id" : "41D5D2F1",
-    "lastKnownWriteTime" : 1511753747,
-    "last_content_update" : 1511753747,
+    "lastKnownWriteTime" : 1511754010,
+    "last_content_update" : 1511754010,
     "path" : "C:/Users/iganelin/Dropbox/Courses/STAT_545A/Projects/rgb2yuv/README.md",
     "project_path" : "README.md",
     "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
     },
     "relative_order" : 10,
     "source_on_save" : false,

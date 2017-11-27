@@ -8,7 +8,7 @@ Date: 26/11/17
 --------------
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-The goal of powers is to practice functions created in the class and create a few more useful functoins. the fuctions also performs a test if the input is actual character or not.
+The goal of rgb2yuv is to practice functions created in the class and create a few more useful functoins. The fuctions also performs a test on the default input.
 
 #### Input:
 

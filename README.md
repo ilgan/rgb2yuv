@@ -48,13 +48,13 @@ I had a lot of problems with including png package into the project. I literally
 
 ### Tests:
 
--   The app installed just fine using: devtools::install\_github("ilgan/my\_powers")
+-   The app installed just fine using: devtools::install\_github("ilgan/rgb2yuv")
 -   Tests script just to make your life easy is below:
 
 ``` r
 devtools::install_github("ilgan/rgb2yuv")
 library(png)
-img <- readPNG("angry.jpg") #or use any other available png file
+img <- readPNG("angry.png") #or use any other available png file
 luma <- rgb2luma(img)
 png('luma.png')
 plot(c(0,1),c(0,1),t='n')

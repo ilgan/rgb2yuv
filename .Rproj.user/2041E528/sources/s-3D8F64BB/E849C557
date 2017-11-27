@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "2810044261",
     "id" : "E849C557",
-    "lastKnownWriteTime" : 1511753905,
-    "last_content_update" : 1511753905636,
+    "lastKnownWriteTime" : 1511754129,
+    "last_content_update" : 1511754129641,
     "path" : "C:/Users/iganelin/Dropbox/Courses/STAT_545A/Projects/rgb2yuv/README.Rmd",
     "project_path" : "README.Rmd",
     "properties" : {
-        "cursorPosition" : "17,3",
-        "scrollLine" : "0"
+        "cursorPosition" : "59,78",
+        "scrollLine" : "44"
     },
     "relative_order" : 4,
     "source_on_save" : false,

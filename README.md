@@ -61,3 +61,5 @@ plot(c(0,1),c(0,1),t='n')
 rasterImage(luma, 0,0,1,1)
 dev.off()
 ```
+
+-   For chroma and grey images, try to replace the conversion function in the example above.

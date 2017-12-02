@@ -10,6 +10,10 @@ Date: 26/11/17
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 The goal of rgb2yuv is to practice functions created in the class and create a few more useful functoins. The fuctions also performs a test on the default input.
 
+#### Installation:
+
+-   Use following command: devtools::install\_github("ilgan/rgb2yuv")
+
 #### Input:
 
 -   png file name.
